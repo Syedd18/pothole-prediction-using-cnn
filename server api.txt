@@ -1,0 +1,1 @@
+py -m uvicorn server_API:app --host 0.0.0.0 --port 8000 --reload --app-dir "C:\Users\acer\Downloads\pothole-detection-system-using-convolution-neural-networks-master\pothole-detection-system-using-convolution-neural-networks-master"
